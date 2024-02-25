@@ -1,0 +1,5 @@
+{
+    "link_limit": 3,
+    "api_url": "http://node.moonhosting.xyz:25565/api",
+    "callback_url": "https://frontendl.vercel.app/callback"
+}
